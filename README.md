@@ -8,6 +8,10 @@
 
 Tiktok Shop API Client is a simple SDK implementation of Tiktok Shop API.
 
+This package used Legacy API version (pre-Sept 2023). More detail here: https://partner.tiktokshop.com/docv2/page/64f198f74830a5028854c106
+
+If you looking for API version 202309, please install package `ecomphp/tiktokshop-php`
+
 ## Installation
 
 Install with Composer

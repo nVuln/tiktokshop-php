@@ -31,6 +31,9 @@
   "scripts": {
     "test": "vendor/bin/phpunit"
   },
+  "suggest": {
+    "ecomphp/tiktokshop-php": "Tiktokshop API Version 202309 and later."
+  },
   "extra": {
 	"branch-alias": {
 	  "dev-master": "1.0.x-dev"
